@@ -120,3 +120,11 @@ footer {
     width: 100%;
   }
 }
+@media screen and (max-width: 400px) {
+  body {
+    font-size: 14px;
+  }
+  header nav ul li a {
+    padding: 20px 15px;
+  }
+}
